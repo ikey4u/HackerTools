@@ -5,7 +5,7 @@ You may follow what mentioned below to download a single folder.
 Lets take **ollydbg** folder as a example, firstly double click the
 folder and  then you will see the URL in the address bar as following:
 
-<pre> https://github.com/ikey4u/BlogShares/<b>tree/master/</b>odbg110 </pre>
+<pre> https://github.com/ikey4u/BlogShares/<b>tree/master</b>/odbg110 </pre>
 
 now we change **tree/master** to **trunk** and execute following  command to
 download the folder:
@@ -22,4 +22,4 @@ have svn installed.
 + ollydbg
     <pre> svn export https://github.com/ikey4u/BlogShares/trunk/odbg110 </pre>
 + ida-color-scheme
-    <pre> https://github.com/ikey4u/BlogShares/trunk/IDAPro/ida-color-scheme </pre>
+    <pre> svn export https://github.com/ikey4u/BlogShares/trunk/IDAPro/ida-color-scheme </pre>
