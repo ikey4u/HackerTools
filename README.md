@@ -10,7 +10,7 @@ folder and  then you will see the URL in the address bar as following:
 now we change **tree/master** to **trunk** and execute following  command to
 download the folder:
 
-<pre> svn export https://github.com/ikey4u/BlogShares/<b>trunk</b>/odbg110 </pre>
+<pre> svn checkout https://github.com/ikey4u/BlogShares/<b>trunk</b>/odbg110 </pre>
 
 P.S.
 Ubuntu user could execute following command to install **svn** in case you do not
@@ -20,6 +20,6 @@ have svn installed.
 
 # Download URLs for svn
 + ollydbg
-    <pre> svn export https://github.com/ikey4u/BlogShares/trunk/odbg110 </pre>
+    <pre> svn checkout https://github.com/ikey4u/BlogShares/trunk/odbg110 </pre>
 + ida-color-scheme
-    <pre> svn export https://github.com/ikey4u/BlogShares/trunk/IDAPro/ida-color-scheme </pre>
+    <pre> svn checkout https://github.com/ikey4u/BlogShares/trunk/IDAPro/ida-color-scheme </pre>
