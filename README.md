@@ -28,4 +28,6 @@ P.S. Ubuntu user could execute following command to install svn in case you do n
 
 - IDA Pro: `svn checkout https://github.com/ikey4u/HackerTools/trunk/ida-color-scheme`
 
-- OllyDbg: `svn checkout https://github.com/ikey4u/HackerTools/trunk/odbg110`
+- OllyDbg:  This tool has a large size, I have put it on Baiduyun disk, download it from here
+
+    链接: https://pan.baidu.com/s/1MUlF6HQ-Q90RYzhmE2KV5A 提取码: v5cu
